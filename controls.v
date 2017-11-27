@@ -1,3 +1,4 @@
+//this for first task in co project
 module Alu_Control ( ALUOp , FUNC , operation );
 input [1:0] ALUOp ;
 input [5:0] FUNC ;
@@ -68,4 +69,3 @@ begin
 end
 end
 endmodule
-//this for first task
